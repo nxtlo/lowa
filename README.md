@@ -1,2 +1,3 @@
-# lowa
-A better lost ark party finder
+# package
+
+me writing random rust crates ig
